@@ -6,7 +6,7 @@ const S = require ("sanctuary")
 const maximum = S.reduce (S.max)
                          (0)
 
-// 	  maximumWealth :: [[Number]] -> Number
+//    maximumWealth :: [[Number]] -> Number
 const maximumWealth = S.compose (maximum)
                                 (S.map (S.sum))
 
