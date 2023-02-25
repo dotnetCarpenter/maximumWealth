@@ -9,7 +9,7 @@ JavaScript
 ```
 node js/imperative.js
 ```
-_[js/imperative.js](blob/main/js/imperative.js)_
+_[js/imperative.js](js/imperative.js)_
 
 ## Functional
 
@@ -20,7 +20,7 @@ cd js
 npm i
 node functional.js
 ```
-_[functional.js](blob/main/js/functional.js)_
+_[functional.js](js/functional.js)_
 
 Haskell
 
@@ -28,6 +28,6 @@ Haskell
 cd haskell
 cabal run
 ```
-_[MyLib.hs](blob/main/haskell/src/MyLib.hs)_
+_[MyLib.hs](haskell/src/MyLib.hs)_
 
 Video (code_report): https://youtu.be/MKb4WD6mioE
